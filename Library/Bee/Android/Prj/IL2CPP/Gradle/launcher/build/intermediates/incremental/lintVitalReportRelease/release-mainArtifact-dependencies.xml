@@ -1,0 +1,32 @@
+<dependencies>
+  <compile
+      roots="D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:arcore_client:@aar,:UnityARCore:@aar,:ARPresto:@aar,:unityandroidpermissions:@aar,D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name=":arcore_client:@aar"
+        simpleName=":arcore_client"/>
+    <dependency
+        name=":UnityARCore:@aar"
+        simpleName=":UnityARCore"/>
+    <dependency
+        name=":ARPresto:@aar"
+        simpleName=":ARPresto"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"
+        simpleName=":unityandroidpermissions"/>
+    <dependency
+        name="D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

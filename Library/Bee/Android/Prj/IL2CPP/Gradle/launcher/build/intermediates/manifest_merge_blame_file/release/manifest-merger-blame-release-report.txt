@@ -1,0 +1,213 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.mARyam"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="34" />
+10-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-67
+19-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:22-64
+20
+21    <uses-feature android:glEsVersion="0x00030000" />
+21-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+21-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+22    <uses-feature
+22-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+23        android:name="android.hardware.touchscreen"
+23-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-52
+24        android:required="false" />
+24-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+25    <uses-feature
+25-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+26        android:name="android.hardware.touchscreen.multitouch"
+26-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-63
+27        android:required="false" />
+27-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+28    <uses-feature
+28-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+29        android:name="android.hardware.touchscreen.multitouch.distinct"
+29-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-72
+30        android:required="false" />
+30-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+31
+32    <uses-permission android:name="android.permission.CAMERA" />
+32-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:5-65
+32-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:22-62
+33
+34    <uses-feature
+34-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:5-25:35
+35        android:name="android.hardware.camera.ar"
+35-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-50
+36        android:required="true" />
+36-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32
+37    <uses-feature
+37-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:5-28:35
+38        android:name="com.google.ar.core.depth"
+38-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-48
+39        android:required="true" />
+39-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-32
+40
+41    <queries>
+41-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:20:5-27:15
+42        <package android:name="com.google.ar.core" />
+42-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:21:9-54
+42-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:21:18-51
+43        <package android:name="com.android.vending" />
+43-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:22:9-55
+43-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:22:18-52
+44
+45        <intent>
+45-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:24:9-26:18
+46            <action android:name="com.google.android.play.core.install.BIND_INSTALL_SERVICE" />
+46-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:25:13-96
+46-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:25:21-93
+47        </intent>
+48    </queries>
+49
+50    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+51    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+52    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+53
+54    <application
+54-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+55        android:extractNativeLibs="true"
+55-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:18-50
+56        android:icon="@mipmap/app_icon"
+56-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+57        android:label="@string/app_name" >
+57-->D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+58        <meta-data
+58-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:33
+59            android:name="unity.splash-mode"
+59-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-45
+60            android:value="0" />
+60-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-30
+61        <meta-data
+61-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+62            android:name="unity.splash-enable"
+62-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-47
+63            android:value="True" />
+63-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+64        <meta-data
+64-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:36
+65            android:name="unity.launch-fullscreen"
+65-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-51
+66            android:value="True" />
+66-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-33
+67        <meta-data
+67-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
+68            android:name="unity.render-outside-safearea"
+68-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-57
+69            android:value="True" />
+69-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
+70        <meta-data
+70-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:50
+71            android:name="notch.config"
+71-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-40
+72            android:value="portrait|landscape" />
+72-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-47
+73        <meta-data
+73-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:9-48:36
+74            android:name="unity.auto-report-fully-drawn"
+74-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-57
+75            android:value="true" />
+75-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-33
+76
+77        <activity
+77-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:9-71:20
+78            android:name="com.unity3d.player.UnityPlayerActivity"
+78-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-66
+79            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+79-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-194
+80            android:exported="true"
+80-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-36
+81            android:hardwareAccelerated="false"
+81-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-48
+82            android:launchMode="singleTask"
+82-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-44
+83            android:resizeableActivity="false"
+83-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-47
+84            android:screenOrientation="fullUser"
+84-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-49
+85            android:theme="@style/UnityThemeSelector" >
+85-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-54
+86            <intent-filter>
+86-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-63:29
+87                <category android:name="android.intent.category.LAUNCHER" />
+87-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-77
+87-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:27-74
+88
+89                <action android:name="android.intent.action.MAIN" />
+89-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:17-69
+89-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:25-66
+90            </intent-filter>
+91
+92            <meta-data
+92-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:13-67:40
+93                android:name="unityplayer.UnityActivity"
+93-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-57
+94                android:value="true" />
+94-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-37
+95            <meta-data
+95-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:13-70:40
+96                android:name="notch_support"
+96-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:17-45
+97                android:value="true" />
+97-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-37
+98        </activity>
+99
+100        <meta-data
+100-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:9-75:36
+101            android:name="unityplayer.SkipPermissionsDialog"
+101-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:13-61
+102            android:value="true" />
+102-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:75:13-33
+103        <meta-data
+103-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:76:9-78:40
+104            android:name="com.google.ar.core"
+104-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:77:13-46
+105            android:value="required" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+105-->[:unityLibrary] D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:78:13-37
+106        <meta-data
+106-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:32:9-34:41
+107            android:name="com.google.ar.core.min_apk_version"
+107-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:33:13-62
+108            android:value="240220000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+108-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:34:13-38
+109        <activity
+109-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:36:9-42:80
+110            android:name="com.google.ar.core.InstallActivity"
+110-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:37:13-62
+111            android:configChanges="keyboardHidden|orientation|screenSize"
+111-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:38:13-74
+112            android:excludeFromRecents="true"
+112-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:39:13-46
+113            android:exported="false"
+113-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:40:13-37
+114            android:launchMode="singleTop"
+114-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:41:13-43
+115            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+115-->[:arcore_client:] C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:42:13-77
+116    </application>
+117
+118</manifest>

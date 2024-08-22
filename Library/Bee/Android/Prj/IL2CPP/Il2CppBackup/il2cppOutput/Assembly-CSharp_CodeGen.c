@@ -1,0 +1,207 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void TouchControls_get_asset_m0E3C6C46163EC640F6C7D6BCE4C9F113754632B8 (void);
+extern void TouchControls__ctor_m22C3B30221CD426DF6C3396A0050B2DE326F61C6 (void);
+extern void TouchControls_Dispose_mD5F924DC257FDB889C0EA5809786DBEFF5D9D2ED (void);
+extern void TouchControls_get_bindingMask_mDFEBEDC9D20A49883806026AE440FFD2D91745A5 (void);
+extern void TouchControls_set_bindingMask_m532127739B6C58FBF82DE697B80F2A37D2023209 (void);
+extern void TouchControls_get_devices_m12E89FCC684F40EA443226C52ADC5ABEC12549B1 (void);
+extern void TouchControls_set_devices_m3665B6ECDFB143F8B95B771898B66DBE0FB5B8AB (void);
+extern void TouchControls_get_controlSchemes_m4D6062F683FF562FD4464C0FB3EE681029ED120B (void);
+extern void TouchControls_Contains_m3D5FFE001245613E4CEF96AEFC9A9000807ADDA8 (void);
+extern void TouchControls_GetEnumerator_m21353231847E5EB3CE699E72101C52F7220783C5 (void);
+extern void TouchControls_System_Collections_IEnumerable_GetEnumerator_mFDCBACAE22242AA8AA18A87583AD5C1DDDE1D3CC (void);
+extern void TouchControls_Enable_m6F14E0C204FB26B59CC6A1A31051BCDD6FC53484 (void);
+extern void TouchControls_Disable_m8265F03AF84701CA1931BDEE1733DF3E6D396102 (void);
+extern void TouchControls_get_bindings_m66CA61D1F136F5DC01263BB9E3D09780A5AC99B5 (void);
+extern void TouchControls_FindAction_m3FBDE54BC467AA12FA24BEAA2A4FABC28AE04D89 (void);
+extern void TouchControls_FindBinding_m70AB45576A49532ABD92085F5F1464FEB9A5824B (void);
+extern void TouchControls_get_control_m8EEABBDEBA99F11595A4CB7347436A7EDF23330E (void);
+extern void ControlActions__ctor_m685B23372FBAB67C73D45CF09E87C07A856E94A9 (void);
+extern void ControlActions_get_touch_mE28DC8E2AE1B8977C252D6847E18FC62838998C3 (void);
+extern void ControlActions_Get_mF0B17BA962687C7EC119FD74353571C5C105293A (void);
+extern void ControlActions_Enable_m1BA6EDED86B757E31B29DF2E94D9F096EA2DDFAF (void);
+extern void ControlActions_Disable_mC5662F5FC941671F3D1E32FC0B0ED47DE9CBF528 (void);
+extern void ControlActions_get_enabled_m749224E9E9BB7411372F96EF6FA3A452B1B4AC09 (void);
+extern void ControlActions_op_Implicit_m570AF8759081DB40E32A24834C61528B2753CD8D (void);
+extern void ControlActions_AddCallbacks_m9728C0954F9251EFF471A9DD994E3F965F52907E (void);
+extern void ControlActions_UnregisterCallbacks_m81495956B4753B474F39351EAC3E6874496F716E (void);
+extern void ControlActions_RemoveCallbacks_m1726AE5BACD6F496D46118CE0EF684DAB5D15765 (void);
+extern void ControlActions_SetCallbacks_m0ED2B21E6DCEADEF8CA888680637D91D5CE01B2E (void);
+extern void PlaceOnPlaneNewInputSystem_Awake_m6286A7911DAA503ECCF07FEBA3D80E1EC4032043 (void);
+extern void PlaceOnPlaneNewInputSystem_Update_m126F57FF4B6CFF811090A4844A37FE5D85CEA89E (void);
+extern void PlaceOnPlaneNewInputSystem_RotateCubeOverTime_mB12F8457F14CFF3F9B6935AC70097AFB5AB9BAA6 (void);
+extern void PlaceOnPlaneNewInputSystem_ChangeCubeColor_mB40A5DF3DF1543DA5847AC5FDABE806E07FC6688 (void);
+extern void PlaceOnPlaneNewInputSystem_GetRandomColor_mCF8ADE46F530F694BCBE779BFDBB01A3F9ADA9B4 (void);
+extern void PlaceOnPlaneNewInputSystem_OnEnable_m78A5B406491C4CF3573A72E1DAA11BB20AA9EA01 (void);
+extern void PlaceOnPlaneNewInputSystem_OnDisable_mCEA046E90EE1DB44A208C2100A08042768D2EECD (void);
+extern void PlaceOnPlaneNewInputSystem__ctor_m31D1918D380F3A1FE58604AA77D73EAEF79935D5 (void);
+extern void PlaceOnPlaneNewInputSystem__cctor_m1C4C1E37DBAB09B73CA611D906F7E40DCF5FE597 (void);
+extern void PlaceOnPlaneNewInputSystem_U3CAwakeU3Eb__9_0_m05795BADBAB22784D68E87F8903FD57029A0B725 (void);
+extern void PlaceOnPlaneNewInputSystem_U3CAwakeU3Eb__9_1_mC220D866CF6A650624CB36E471E1CFD81D35DE36 (void);
+extern void U3CRotateCubeOverTimeU3Ed__11__ctor_mB4C383A2A9D2A5E70E6F6CE44B7F3EC0EB8EDD12 (void);
+extern void U3CRotateCubeOverTimeU3Ed__11_System_IDisposable_Dispose_m336DF13E3AD65234FACCD9B804A357FDAAEEDDBD (void);
+extern void U3CRotateCubeOverTimeU3Ed__11_MoveNext_mD67D767D47EFA91AF9DA51362F59D386AF135362 (void);
+extern void U3CRotateCubeOverTimeU3Ed__11_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB0F254079923D7BF39C2563CACF03E10A77AC289 (void);
+extern void U3CRotateCubeOverTimeU3Ed__11_System_Collections_IEnumerator_Reset_m50375800C987E40FC91CC1792F3F08A28BB18F7E (void);
+extern void U3CRotateCubeOverTimeU3Ed__11_System_Collections_IEnumerator_get_Current_m0328144DF27F1D06AE7BF80EDAC5547CBCF5858C (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[48] = 
+{
+	TouchControls_get_asset_m0E3C6C46163EC640F6C7D6BCE4C9F113754632B8,
+	TouchControls__ctor_m22C3B30221CD426DF6C3396A0050B2DE326F61C6,
+	TouchControls_Dispose_mD5F924DC257FDB889C0EA5809786DBEFF5D9D2ED,
+	TouchControls_get_bindingMask_mDFEBEDC9D20A49883806026AE440FFD2D91745A5,
+	TouchControls_set_bindingMask_m532127739B6C58FBF82DE697B80F2A37D2023209,
+	TouchControls_get_devices_m12E89FCC684F40EA443226C52ADC5ABEC12549B1,
+	TouchControls_set_devices_m3665B6ECDFB143F8B95B771898B66DBE0FB5B8AB,
+	TouchControls_get_controlSchemes_m4D6062F683FF562FD4464C0FB3EE681029ED120B,
+	TouchControls_Contains_m3D5FFE001245613E4CEF96AEFC9A9000807ADDA8,
+	TouchControls_GetEnumerator_m21353231847E5EB3CE699E72101C52F7220783C5,
+	TouchControls_System_Collections_IEnumerable_GetEnumerator_mFDCBACAE22242AA8AA18A87583AD5C1DDDE1D3CC,
+	TouchControls_Enable_m6F14E0C204FB26B59CC6A1A31051BCDD6FC53484,
+	TouchControls_Disable_m8265F03AF84701CA1931BDEE1733DF3E6D396102,
+	TouchControls_get_bindings_m66CA61D1F136F5DC01263BB9E3D09780A5AC99B5,
+	TouchControls_FindAction_m3FBDE54BC467AA12FA24BEAA2A4FABC28AE04D89,
+	TouchControls_FindBinding_m70AB45576A49532ABD92085F5F1464FEB9A5824B,
+	TouchControls_get_control_m8EEABBDEBA99F11595A4CB7347436A7EDF23330E,
+	ControlActions__ctor_m685B23372FBAB67C73D45CF09E87C07A856E94A9,
+	ControlActions_get_touch_mE28DC8E2AE1B8977C252D6847E18FC62838998C3,
+	ControlActions_Get_mF0B17BA962687C7EC119FD74353571C5C105293A,
+	ControlActions_Enable_m1BA6EDED86B757E31B29DF2E94D9F096EA2DDFAF,
+	ControlActions_Disable_mC5662F5FC941671F3D1E32FC0B0ED47DE9CBF528,
+	ControlActions_get_enabled_m749224E9E9BB7411372F96EF6FA3A452B1B4AC09,
+	ControlActions_op_Implicit_m570AF8759081DB40E32A24834C61528B2753CD8D,
+	ControlActions_AddCallbacks_m9728C0954F9251EFF471A9DD994E3F965F52907E,
+	ControlActions_UnregisterCallbacks_m81495956B4753B474F39351EAC3E6874496F716E,
+	ControlActions_RemoveCallbacks_m1726AE5BACD6F496D46118CE0EF684DAB5D15765,
+	ControlActions_SetCallbacks_m0ED2B21E6DCEADEF8CA888680637D91D5CE01B2E,
+	NULL,
+	PlaceOnPlaneNewInputSystem_Awake_m6286A7911DAA503ECCF07FEBA3D80E1EC4032043,
+	PlaceOnPlaneNewInputSystem_Update_m126F57FF4B6CFF811090A4844A37FE5D85CEA89E,
+	PlaceOnPlaneNewInputSystem_RotateCubeOverTime_mB12F8457F14CFF3F9B6935AC70097AFB5AB9BAA6,
+	PlaceOnPlaneNewInputSystem_ChangeCubeColor_mB40A5DF3DF1543DA5847AC5FDABE806E07FC6688,
+	PlaceOnPlaneNewInputSystem_GetRandomColor_mCF8ADE46F530F694BCBE779BFDBB01A3F9ADA9B4,
+	PlaceOnPlaneNewInputSystem_OnEnable_m78A5B406491C4CF3573A72E1DAA11BB20AA9EA01,
+	PlaceOnPlaneNewInputSystem_OnDisable_mCEA046E90EE1DB44A208C2100A08042768D2EECD,
+	PlaceOnPlaneNewInputSystem__ctor_m31D1918D380F3A1FE58604AA77D73EAEF79935D5,
+	PlaceOnPlaneNewInputSystem__cctor_m1C4C1E37DBAB09B73CA611D906F7E40DCF5FE597,
+	PlaceOnPlaneNewInputSystem_U3CAwakeU3Eb__9_0_m05795BADBAB22784D68E87F8903FD57029A0B725,
+	PlaceOnPlaneNewInputSystem_U3CAwakeU3Eb__9_1_mC220D866CF6A650624CB36E471E1CFD81D35DE36,
+	U3CRotateCubeOverTimeU3Ed__11__ctor_mB4C383A2A9D2A5E70E6F6CE44B7F3EC0EB8EDD12,
+	U3CRotateCubeOverTimeU3Ed__11_System_IDisposable_Dispose_m336DF13E3AD65234FACCD9B804A357FDAAEEDDBD,
+	U3CRotateCubeOverTimeU3Ed__11_MoveNext_mD67D767D47EFA91AF9DA51362F59D386AF135362,
+	U3CRotateCubeOverTimeU3Ed__11_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB0F254079923D7BF39C2563CACF03E10A77AC289,
+	U3CRotateCubeOverTimeU3Ed__11_System_Collections_IEnumerator_Reset_m50375800C987E40FC91CC1792F3F08A28BB18F7E,
+	U3CRotateCubeOverTimeU3Ed__11_System_Collections_IEnumerator_get_Current_m0328144DF27F1D06AE7BF80EDAC5547CBCF5858C,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+extern void ControlActions__ctor_m685B23372FBAB67C73D45CF09E87C07A856E94A9_AdjustorThunk (void);
+extern void ControlActions_get_touch_mE28DC8E2AE1B8977C252D6847E18FC62838998C3_AdjustorThunk (void);
+extern void ControlActions_Get_mF0B17BA962687C7EC119FD74353571C5C105293A_AdjustorThunk (void);
+extern void ControlActions_Enable_m1BA6EDED86B757E31B29DF2E94D9F096EA2DDFAF_AdjustorThunk (void);
+extern void ControlActions_Disable_mC5662F5FC941671F3D1E32FC0B0ED47DE9CBF528_AdjustorThunk (void);
+extern void ControlActions_get_enabled_m749224E9E9BB7411372F96EF6FA3A452B1B4AC09_AdjustorThunk (void);
+extern void ControlActions_AddCallbacks_m9728C0954F9251EFF471A9DD994E3F965F52907E_AdjustorThunk (void);
+extern void ControlActions_UnregisterCallbacks_m81495956B4753B474F39351EAC3E6874496F716E_AdjustorThunk (void);
+extern void ControlActions_RemoveCallbacks_m1726AE5BACD6F496D46118CE0EF684DAB5D15765_AdjustorThunk (void);
+extern void ControlActions_SetCallbacks_m0ED2B21E6DCEADEF8CA888680637D91D5CE01B2E_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[10] = 
+{
+	{ 0x06000012, ControlActions__ctor_m685B23372FBAB67C73D45CF09E87C07A856E94A9_AdjustorThunk },
+	{ 0x06000013, ControlActions_get_touch_mE28DC8E2AE1B8977C252D6847E18FC62838998C3_AdjustorThunk },
+	{ 0x06000014, ControlActions_Get_mF0B17BA962687C7EC119FD74353571C5C105293A_AdjustorThunk },
+	{ 0x06000015, ControlActions_Enable_m1BA6EDED86B757E31B29DF2E94D9F096EA2DDFAF_AdjustorThunk },
+	{ 0x06000016, ControlActions_Disable_mC5662F5FC941671F3D1E32FC0B0ED47DE9CBF528_AdjustorThunk },
+	{ 0x06000017, ControlActions_get_enabled_m749224E9E9BB7411372F96EF6FA3A452B1B4AC09_AdjustorThunk },
+	{ 0x06000019, ControlActions_AddCallbacks_m9728C0954F9251EFF471A9DD994E3F965F52907E_AdjustorThunk },
+	{ 0x0600001A, ControlActions_UnregisterCallbacks_m81495956B4753B474F39351EAC3E6874496F716E_AdjustorThunk },
+	{ 0x0600001B, ControlActions_RemoveCallbacks_m1726AE5BACD6F496D46118CE0EF684DAB5D15765_AdjustorThunk },
+	{ 0x0600001C, ControlActions_SetCallbacks_m0ED2B21E6DCEADEF8CA888680637D91D5CE01B2E_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[48] = 
+{
+	7218,
+	7326,
+	7326,
+	6913,
+	5551,
+	6908,
+	5546,
+	6988,
+	4107,
+	7218,
+	7218,
+	7326,
+	7326,
+	7218,
+	2305,
+	2015,
+	7453,
+	5802,
+	7218,
+	7218,
+	7326,
+	7326,
+	7104,
+	10747,
+	5802,
+	5802,
+	5802,
+	5802,
+	0,
+	7326,
+	7326,
+	7218,
+	5694,
+	7106,
+	7326,
+	7326,
+	7326,
+	11159,
+	5950,
+	5950,
+	5761,
+	7326,
+	7104,
+	7218,
+	7326,
+	7218,
+	11179,
+	7326,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	48,
+	s_methodPointers,
+	10,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.mARyam.launcher-mergeReleaseResources-4:/values-si/values-si.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\malizadeh_sani\\.gradle\\caches\\transforms-3\\8f56f7bd0e5bdc0c456829721fdd8247\\transformed\\jetified-arcore_client\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,243,298,402,513",
+                        "endColumns": "52,54,103,110,84",
+                        "endOffsets": "242,297,401,512,597"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,171,279,394",
+                        "endColumns": "56,58,107,114,88",
+                        "endOffsets": "107,166,274,389,478"
+                    }
+                }
+            ]
+        }
+    ]
+}

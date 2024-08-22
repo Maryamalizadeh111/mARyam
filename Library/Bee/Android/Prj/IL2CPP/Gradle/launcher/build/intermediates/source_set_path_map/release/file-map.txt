@@ -1,0 +1,11 @@
+com.DefaultCompany.mARyam.launcher-jetified-arcore_client-0 C:\Users\malizadeh_sani\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res
+com.DefaultCompany.mARyam.launcher-pngs-1 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.mARyam.launcher-resValues-2 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.mARyam.launcher-rs-3 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.mARyam.launcher-mergeReleaseResources-4 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.mARyam.launcher-mergeReleaseResources-5 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.mARyam.launcher-merged_res-6 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.mARyam.launcher-main-7 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.mARyam.launcher-release-8 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.DefaultCompany.mARyam.launcher-packaged_res-9 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.mARyam.launcher-packaged_res-10 D:\Apply\Demodern\2022_3D_again\mARyam\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
